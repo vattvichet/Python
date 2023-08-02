@@ -11,4 +11,4 @@ def maximum(a,b):
         return b
 num1= int(input("Enter number 1 :"))
 num2= int(input("Enter number 1 :"))
-print("Maximum :",maximum(num1,num2))
+print("Maximum :",maximum(num1,num2))                                                       
